@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\Prog2\Prog2V2\Prog2\obj\x86\Debug\Prog2.exe
+C:\Users\Admin\Desktop\Prog2\Prog2V2\Prog2\obj\x86\Debug\Prog2.pdb
+C:\Users\Admin\Desktop\Prog2\Prog2V2\Prog2\bin\Debug\Prog2.exe
+C:\Users\Admin\Desktop\Prog2\Prog2V2\Prog2\bin\Debug\Prog2.pdb
+C:\Users\Admin\Desktop\Prog2\Prog2V2\Prog2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Prog2\Prog2V2\Prog2\obj\x86\Debug\Prog2.Properties.Resources.resources
+C:\Users\Admin\Desktop\Prog2\Prog2V2\Prog2\obj\x86\Debug\Prog2.RegForm.resources
+C:\Users\Admin\Desktop\Prog2\Prog2V2\Prog2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\Prog2\Prog2V2\Prog2\obj\x86\Debug\GenerateResource.write.1.tlog
