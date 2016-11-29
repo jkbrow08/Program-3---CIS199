@@ -1,2 +1,2 @@
-# Program-3---CIS199
+# Program-3-CIS199
 # Author - Jeremy Brown
